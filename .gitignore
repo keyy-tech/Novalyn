@@ -3,3 +3,4 @@ Backend/db.sqlite3
 Backend/novalyn/__pycache__/
 Backend/migrations/
 Backend/env/
+Backend/.env
