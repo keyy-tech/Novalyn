@@ -261,11 +261,6 @@ GitHub: [https://github.com/keyy-tech/novalyn](https://github.com/keyy-tech/nova
 
 **Novalyn — Turning chaos into clarity for your team.**
 
-```
 
----
 
-If you want, I can also **create a ready-to-use folder structure with sample React pages and DRF API endpoints** that matches this README so you can **push it to GitHub and start coding immediately**.  
 
-Would you like for me to do that next?
-```
