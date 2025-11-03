@@ -1,5 +1,5 @@
 Backend/.idea/
 Backend/db.sqlite3
-Backend/__pycache__/
+Backend/novalyn/__pycache__/
 Backend/migrations/
 Backend/env/
